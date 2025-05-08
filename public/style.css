@@ -1,6 +1,6 @@
 body {
     font-family: Arial, sans-serif;
-    background: #f0f0f0;
+    background: rgb(180, 67, 153);
     display: flex;
     justify-content: center;
     align-items: center;
@@ -9,11 +9,12 @@ body {
   }
   
   .container {
-    background: white;
+    background: rgb(255, 255, 255);
     padding: 30px;
     border-radius: 10px;
     box-shadow: 0 5px 15px rgba(0,0,0,0.1);
     text-align: center;
+    color: white;
   }
   
   input {
